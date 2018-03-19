@@ -6,7 +6,7 @@ from random import choice
 BASE_FONT = 10
 IMGNAME = "shimmi.jpg"
 
-OUT_FILE = sys.stdout
+OUT_FILE = open("shimmi.txt", "w") #sys.stdout
 
 EXEC_PER_FRAME = 100
 
@@ -55,7 +55,7 @@ def draw_image():
             OUT_FILE.write(chv)
             yield
 
-        print
+        OUT_FILE.write("\n")
 
 def setup():
     global intensity_lookup, f, chwidth, drawer
