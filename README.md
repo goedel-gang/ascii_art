@@ -5,4 +5,5 @@ over the appropriate rectangles, although it spends some time on scaling
 calculations. Here are a couple of examples:
 
 ![screenshot](https://github.com/elterminad0r/ascii_art/blob/master/screenshots/tim_ascii.png)
-![screenshot](https://github.com/elterminad0r/ascii_art/blob/master/screenshots/shimmi_ascii.png)
+![screenshot](https://github.com/elterminad0r/ascii_art/blob/master/screenshots/cat_ascii.png)
+![screenshot](https://github.com/elterminad0r/ascii_art/blob/master/screenshots/swan_ascii.png)
